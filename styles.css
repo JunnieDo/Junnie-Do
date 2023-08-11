@@ -1,0 +1,78 @@
+/* Global Styles */
+body {
+    background-color: Wheat;
+}
+
+/* .myDiv Styles */
+.myDiv {
+    border: 0px outset BurlyWood;
+    height: 200%;
+    width: 100%;
+    border-radius: 60px;
+    background-color: BurlyWood;
+    text-align: center;
+}
+
+/* h1 Styles */
+h1 {
+    color: sienna;
+    font-size: 80px;
+    text-align: center;
+}
+
+/* h2 Styles */
+h2 {
+    color: Sienna;
+    font-size: 65px;
+    text-align: center;
+}
+
+/* .container Styles */
+.container {
+    width: 1400px;
+    height: 1300px;
+    border-radius: 60px;
+    background-color: BurlyWood;
+}
+
+/* Paragraph Styles */
+p {
+    color: Sienna;
+    font-size: 45px;
+    text-align: center;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+
+/* Unordered List Styles */
+#classDiv {
+    font-size: 40px;
+    margin-bottom: 10px;
+    color: sienna;
+}
+
+/* Table Styles */
+table, td, th {
+    border: 4px solid;
+    color: SaddleBrown;
+    text-align: center;
+}
+
+table {
+    width: 90%;
+    table-layout: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+}
+
+/* Link Styles */
+a {
+    color: sienna;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
